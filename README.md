@@ -4,7 +4,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Bless&theme=dark&show_icons=true&locale=en&layout=compact" alt="Dev-Bless" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dev-Bless&theme=dark)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dev-Bless&theme=dark&card_height=100)](https://git.io/streak-stats)  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" height="30" width="40" />
