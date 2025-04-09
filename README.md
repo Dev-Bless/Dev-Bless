@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-👋 Hi, I’m Bless Ahadjie<br>👀 I’m interested in JavaScript, TypeScript, Angular,  NestJS<br>💞️ I’m looking to collaborate on any project relating to my interest<br>📫 How to reach me blaise0ahadjie@gmail.com <br>
+👋 I’m Bless Ahadjie<br>👀 I’m interested in JavaScript, TypeScript, Angular,  NestJS<br>💞️ I’m looking to collaborate on any project relating to my interest<br>📫 How to reach me blaise0ahadjie@gmail.com <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Bless&theme=dark&show_icons=true&locale=en&layout=compact" alt="Dev-Bless" /></p>
 
