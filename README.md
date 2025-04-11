@@ -27,7 +27,10 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Testing/jasmine.svg" height="30" width="40" />
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Testing/cypress.svg" height="30" width="40" />
 </p>
+<br/><br/>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dev-Bless&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <!--
 **Dev-Bless/Dev-Bless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
