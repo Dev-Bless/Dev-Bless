@@ -4,7 +4,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Bless&theme=dark&show_icons=true&locale=en&layout=compact" alt="Dev-Bless" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dev-Bless&theme=dark&card_height=60" alt="GitHub Streak" /></a> 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dev-Bless&theme=dark&card_height=60&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
