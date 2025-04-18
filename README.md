@@ -3,8 +3,12 @@
 👋 I’m Bless Ahadjie<br>👀 I’m interested in JavaScript, TypeScript, Angular,  NestJS<br>💞️ I’m looking to collaborate on any project relating to my interest<br>📫 How to reach me blaise0ahadjie@gmail.com <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Bless&theme=dark&show_icons=true&locale=en&layout=compact" alt="Dev-Bless" /></p>
-
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dev-Bless&theme=dark&card_height=60)](https://git.io/streak-stats)
+-->
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=Dev-Bless&theme=dark&hide_border=false" alt="GitHub Streak" />
+</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
