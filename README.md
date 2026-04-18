@@ -11,7 +11,7 @@
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<span align="left">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" height="30" width="40" />
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/typescript.svg" height="30" width="40" />
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/angularjs.svg" height="30" width="40" />
@@ -30,7 +30,7 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Testing/jest.svg" height="30" width="40" />
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Testing/jasmine.svg" height="30" width="40" />
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Testing/cypress.svg" height="30" width="40" />
-</p>
+</span>
 <br/><br/>
 
 
